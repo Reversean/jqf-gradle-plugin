@@ -7,7 +7,7 @@ plugins {
 }
 
 group 'com.mborzenkov'
-version '0.2'
+version '0.2.1'
 description 'JQF: Feedback-directed Quickcheck for Java - Gradle plugin'
 
 compileJava {
